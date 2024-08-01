@@ -1,0 +1,5 @@
+MYSQL_HOST = 'sql10.freemysqlhosting.net'
+MYSQL_USER = 'sql10722406'
+MYSQL_PASSWORD = 'HtPk3DQrmr'
+MYSQL_DB = 'sql10722406'
+HEX_SEC_KEY = 'a502ad3436918b29520efba36d5e46d1'
